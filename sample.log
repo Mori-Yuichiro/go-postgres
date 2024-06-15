@@ -1,0 +1,12 @@
+{
+  "user": {
+    "age": 22,
+    "name": "tarou",
+    "role": "student"
+  },
+  "dist": "PostgreSQL",
+  "level": "info",
+  "msg": "test",
+  "src": "backend",
+  "time": "2021-08-01T00:05:05Z"
+}
