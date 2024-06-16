@@ -1,12 +1,5 @@
-{
-  "user": {
-    "age": 22,
-    "name": "tarou",
-    "role": "student"
-  },
-  "dist": "PostgreSQL",
-  "level": "info",
-  "msg": "test",
-  "src": "backend",
-  "time": "2021-08-01T00:05:05Z"
-}
+{"user":{"age":22,"name":"tarou","role":"student"},"dist":"PostgreSQL","level":"info","msg":"test","src":"backend","time":"2021-08-01T00:05:05Z"}
+{"user":{"age":23,"name":"zirou","role":"student"},"dist":"PostgreSQL","level":"info","msg":"test","src":"backend","time":"2021-08-01T00:05:05Z"}
+{"user":{"age":24,"name":"saburou","role":"student"},"dist":"PostgreSQL","level":"info","msg":"test","src":"backend","time":"2003-08-01T00:05:05Z"}
+{"user":{"age":25,"name":"mike","role":"mentor"},"dist":"PostgreSQL","level":"warn","msg":"test","src":"backend","time":"2011-08-01T00:05:05Z"}
+{"user":{"age":26,"name":"make","role":"mentor"},"dist":"PostgreSQL","level":"warn","msg":"test","src":"backend","time":"2020-08-01T00:05:05Z"}
